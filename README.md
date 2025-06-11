@@ -1,4 +1,4 @@
-# LangGraph Agent Implementation Project!
+# LangGraph Agent Implementation Project
 
 ## Overview
 
